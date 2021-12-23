@@ -1,0 +1,8 @@
+[Danh sach files HPKey 2.0]
+ChuyenMa.exe
+DanhSachFile.exe
+FM20.DLL
+GoTat.txt
+HPKey.exe
+HPscreen.fon
+HuongDan.html
